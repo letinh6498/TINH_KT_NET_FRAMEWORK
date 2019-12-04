@@ -1,0 +1,33 @@
+C:\Users\USER\source\repos\kt\kt\bin\Debug\kt.exe.config
+C:\Users\USER\source\repos\kt\kt\bin\Debug\kt.exe
+C:\Users\USER\source\repos\kt\kt\bin\Debug\kt.pdb
+C:\Users\USER\source\repos\kt\kt\obj\Debug\kt.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\kt\kt\obj\Debug\kt.Properties.Resources.resources
+C:\Users\USER\source\repos\kt\kt\obj\Debug\kt.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\kt\kt\obj\Debug\kt.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\kt\kt\obj\Debug\kt.exe
+C:\Users\USER\source\repos\kt\kt\obj\Debug\kt.pdb
+C:\Users\USER\source\repos\kt\kt\obj\Debug\kt.frmInFoStudent.resources
+C:\Users\USER\source\repos\kt\kt\obj\Debug\kt.frmAddStudent.resources
+C:\Users\Tinh\Downloads\kiemTraC--master\kt\kt\bin\Debug\kt.exe.config
+C:\Users\Tinh\Downloads\kiemTraC--master\kt\kt\bin\Debug\kt.exe
+C:\Users\Tinh\Downloads\kiemTraC--master\kt\kt\bin\Debug\kt.pdb
+C:\Users\Tinh\Downloads\kiemTraC--master\kt\kt\obj\Debug\kt.csprojAssemblyReference.cache
+C:\Users\Tinh\Downloads\kiemTraC--master\kt\kt\obj\Debug\kt.frmInFoStudent.resources
+C:\Users\Tinh\Downloads\kiemTraC--master\kt\kt\obj\Debug\kt.Properties.Resources.resources
+C:\Users\Tinh\Downloads\kiemTraC--master\kt\kt\obj\Debug\kt.frmAddStudent.resources
+C:\Users\Tinh\Downloads\kiemTraC--master\kt\kt\obj\Debug\kt.csproj.GenerateResource.cache
+C:\Users\Tinh\Downloads\kiemTraC--master\kt\kt\obj\Debug\kt.csproj.CoreCompileInputs.cache
+C:\Users\Tinh\Downloads\kiemTraC--master\kt\kt\obj\Debug\kt.exe
+C:\Users\Tinh\Downloads\kiemTraC--master\kt\kt\obj\Debug\kt.pdb
+E:\NET framework\LE_PHU_TINH_KT_NET\kt\kt\bin\Debug\kt.exe.config
+E:\NET framework\LE_PHU_TINH_KT_NET\kt\kt\bin\Debug\kt.exe
+E:\NET framework\LE_PHU_TINH_KT_NET\kt\kt\bin\Debug\kt.pdb
+E:\NET framework\LE_PHU_TINH_KT_NET\kt\kt\obj\Debug\kt.csprojAssemblyReference.cache
+E:\NET framework\LE_PHU_TINH_KT_NET\kt\kt\obj\Debug\kt.frmInFoStudent.resources
+E:\NET framework\LE_PHU_TINH_KT_NET\kt\kt\obj\Debug\kt.Properties.Resources.resources
+E:\NET framework\LE_PHU_TINH_KT_NET\kt\kt\obj\Debug\kt.frmAddStudent.resources
+E:\NET framework\LE_PHU_TINH_KT_NET\kt\kt\obj\Debug\kt.csproj.GenerateResource.cache
+E:\NET framework\LE_PHU_TINH_KT_NET\kt\kt\obj\Debug\kt.csproj.CoreCompileInputs.cache
+E:\NET framework\LE_PHU_TINH_KT_NET\kt\kt\obj\Debug\kt.exe
+E:\NET framework\LE_PHU_TINH_KT_NET\kt\kt\obj\Debug\kt.pdb
